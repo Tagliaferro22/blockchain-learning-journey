@@ -1,0 +1,1 @@
+In this week, I'll see the videos of this [Youtube Playlist](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)
