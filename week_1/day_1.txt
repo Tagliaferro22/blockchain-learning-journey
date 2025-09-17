@@ -4,4 +4,11 @@ This video is a brief talk about some history of blockchain world. It's evolutio
 
 Blockchain can be used for many other things that just currency, but its interesting to see that was that the first use case of Blockchain (Bitcoin)
 
-What are the characteristics of currency? What is the definition of currency? The properties of money are the ones 
+What are the characteristics of currency? What is the definition of currency? The properties of money are the ones list above:
+
+    - Durability: It needs to have some "lifetime", the most long that it can its better.
+    - Portability: It needs to be able to move to one place to another easily. 
+    - Divisibility: It needs to have some way to divide it in smaller fractions to buy things that are cheaper
+    - Uniformity: If the "cash" is $100 for example, it needs to be the same, $100 here and there. 
+    - Limited supply: If it's infinite, there's no meaningfull to use it as a money. 
+    - Acceptability: Maybe there's things that are durable, portable, divisible, uniform and have limited supply, but if those things aren't acceptable, there's no way that can be considered as money
