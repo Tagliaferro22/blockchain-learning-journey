@@ -1,0 +1,10 @@
+Today, I'll continue seeing this video: https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&t=793s&pp=iAQB, and I'll take notes about that. 
+
+There are different ways to try to create a monetary system:
+
+- Credit: That's based in debt. 
+- Cash: External medium of exchange (gold, silver, etc)
+
+Computional Backing was the idea behing Dwork and Naor's paper (1992), that later expanded into commercial product with Adam Back's Hashcash
+
+Situation: Alice sends Bob an email. Before Bob can see it, his computer asks to Alice's computer to solve a math problem which would take a few seconds to solve and send him the answer. With this, Alice show that she's doing some work 
