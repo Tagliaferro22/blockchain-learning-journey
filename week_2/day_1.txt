@@ -1,0 +1,14 @@
+25/9/2025 - Week 2 - Day 1
+
+Okay, today I'll investigate about the roadmap to become a Web3 Developer / BlockChain developer (I don't know the differences between those two yet). 
+
+The Three Pillars of Blockchain Technology
+
+1. Decentralization: The control and decision making doesn't came from a state / government or entity like banks or corporations; but comes from distributed web of participants. This prevents that an actor exercise authority or control above the others. 
+2. Immutability: This guarantees that registered transactions in the major shared book, cannot be altered or deleted. This is because of the cryptographic hash functions.
+3. Consensus: A blockchain system stablish rules about how the participants agree the transactions validity. The most known protocols consensus includes: 
+
+    - Proof of Work (PoW): It's utilized by Blockchain web, this protocol forces to miners to compete to solve a complex cryptographic algorithm. The first able to solve it, adds a block in the chain and receives a reward. This process requires an significative amount of energy consume.
+-   Proof of Stake (PoS): It was implemented by Ethereum web, this model is much more efficient energetically speaking. The validators bet his tokens to obtain the opportunity of creating a new block. The probability of being chosen to validate a block depends of the quantity of token staked.  
+-   Proof of Authority (PoA): En este modelo, utilizado en redes privadas o con permisos, solo un conjunto limitado de nodos autorizados puede validar y sellar bloques. Al no haber competencia para minar, el consumo de energía es mucho menor y más eficiente [7].
+
